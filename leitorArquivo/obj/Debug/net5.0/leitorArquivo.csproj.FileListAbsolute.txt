@@ -1,0 +1,16 @@
+C:\Users\Allan\source\repos\leitorArquivo\leitorArquivo\bin\Debug\net5.0\leitorArquivo.exe
+C:\Users\Allan\source\repos\leitorArquivo\leitorArquivo\bin\Debug\net5.0\leitorArquivo.deps.json
+C:\Users\Allan\source\repos\leitorArquivo\leitorArquivo\bin\Debug\net5.0\leitorArquivo.runtimeconfig.json
+C:\Users\Allan\source\repos\leitorArquivo\leitorArquivo\bin\Debug\net5.0\leitorArquivo.runtimeconfig.dev.json
+C:\Users\Allan\source\repos\leitorArquivo\leitorArquivo\bin\Debug\net5.0\leitorArquivo.dll
+C:\Users\Allan\source\repos\leitorArquivo\leitorArquivo\bin\Debug\net5.0\ref\leitorArquivo.dll
+C:\Users\Allan\source\repos\leitorArquivo\leitorArquivo\bin\Debug\net5.0\leitorArquivo.pdb
+C:\Users\Allan\source\repos\leitorArquivo\leitorArquivo\obj\Debug\net5.0\leitorArquivo.csproj.AssemblyReference.cache
+C:\Users\Allan\source\repos\leitorArquivo\leitorArquivo\obj\Debug\net5.0\leitorArquivo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Allan\source\repos\leitorArquivo\leitorArquivo\obj\Debug\net5.0\leitorArquivo.AssemblyInfoInputs.cache
+C:\Users\Allan\source\repos\leitorArquivo\leitorArquivo\obj\Debug\net5.0\leitorArquivo.AssemblyInfo.cs
+C:\Users\Allan\source\repos\leitorArquivo\leitorArquivo\obj\Debug\net5.0\leitorArquivo.csproj.CoreCompileInputs.cache
+C:\Users\Allan\source\repos\leitorArquivo\leitorArquivo\obj\Debug\net5.0\leitorArquivo.dll
+C:\Users\Allan\source\repos\leitorArquivo\leitorArquivo\obj\Debug\net5.0\ref\leitorArquivo.dll
+C:\Users\Allan\source\repos\leitorArquivo\leitorArquivo\obj\Debug\net5.0\leitorArquivo.pdb
+C:\Users\Allan\source\repos\leitorArquivo\leitorArquivo\obj\Debug\net5.0\leitorArquivo.genruntimeconfig.cache

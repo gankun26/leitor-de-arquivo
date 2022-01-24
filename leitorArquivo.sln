@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31729.503
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "leitorArquivo", "leitorArquivo\leitorArquivo.csproj", "{1B736C86-0737-4C59-A6D2-B5A2EDDDFB29}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1B736C86-0737-4C59-A6D2-B5A2EDDDFB29}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1B736C86-0737-4C59-A6D2-B5A2EDDDFB29}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1B736C86-0737-4C59-A6D2-B5A2EDDDFB29}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1B736C86-0737-4C59-A6D2-B5A2EDDDFB29}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0F0D9C5D-CA41-4BD7-912B-10FDE0BCF82D}
+	EndGlobalSection
+EndGlobal
